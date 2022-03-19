@@ -1,0 +1,2 @@
+url: "http://172.17.0.2:3000"
+#url: "http://api:3000" # bridge+links可使用容器里的子网IP 或 容器名连接
